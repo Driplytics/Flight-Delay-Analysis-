@@ -21,7 +21,7 @@ My Objective is to perform an Exploratory Data Analysis on a flight Experience D
 * Flight Data source : 
 <https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/blob/main/Airline%20Project/Airlines.csv>
 
-*  ###  Overlayed Data : 
+*  ####  Overlayed Data : 
 *  Airport Names: 
 <https://datahub.io/core/airport-codes>
 *  Airline Names : 
@@ -32,4 +32,4 @@ My Objective is to perform an Exploratory Data Analysis on a flight Experience D
 
 
 ##  Where is the Data? 
-The Data used for my Analysis were from 3 Different sources (see Resources), the main flight data has Airport and Airline codes as a means of identity, hence the need to source for external Data set that would  overlay these codes and provide the names of Airlines, Airport and their location, by creating a Data model  between the 3 tables. 
+The Data used for my Analysis were from 3 Different sources (see **Resources**), the main flight data has Airport and Airline codes as a means of identity, hence the need to source for external Data set that would  overlay these codes and provide the names of Airlines, Airport and their location, by creating a Data model  between the 3 tables. 
