@@ -6,13 +6,13 @@ My Objective is to perform an Exploratory Data Analysis on a flight Experience D
 
 ##  Tools and Resources
 
---*  Tools
-Excel
+*  ###  Tools
+*  Excel
 
-Power BI
+*  Power BI
 
-Adobe illustrator
+*  Adobe illustrator
 
 
-*  Resources
+*  ###  Resources
 
