@@ -14,5 +14,13 @@ My Objective is to perform an Exploratory Data Analysis on a flight Experience D
 *  Adobe illustrator
 
 
+
+
 *  ###  Resources
 
+*   Flight Data source : 
+<https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/blob/main/Airline%20Project/Airlines.csv>
+
+*  ###  Overlayed Data : 
+*   Datahub: 
+<https://datahub.io/core/airport-codes>
