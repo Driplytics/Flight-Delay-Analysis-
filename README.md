@@ -36,7 +36,22 @@ The Data used for my Analysis were from 3 Different sources (see **Resources**),
 
 ##  Project Flow
 
-1. Data Cleaning - 
+1. __Data Cleaning :__ The Flight Data is a cleaned up Dataset, hence required no further cleaning, except some necessary transformations. On the other hand, the overlayed Data needed some cleaning and transformation to remove unneeded columns from the Table. 
+2. __Defining the Context and Objectives:__ Before starting any Analysis, I like to gain clarity from the start. And I achieve this by defining the context of Who my audience is, What is required of me, Why It's important to them and How I can meet this requirements. 
+3. __Data Overlay and and Reverse Geocoding :__
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
