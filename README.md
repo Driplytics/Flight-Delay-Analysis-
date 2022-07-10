@@ -19,7 +19,7 @@ My Objective is to perform an Exploratory Data Analysis on a flight Experience D
 ##  Resources
 
 * Flight Data source : 
-<https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/blob/main/Airline%20Project/Airlines.csv>
+<https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/blob/main/Airline%20Project/Airlines.csv>  Here's the Data ![image]
 
 *  ####  Overlayed Data : 
 *  Airport Names: 
