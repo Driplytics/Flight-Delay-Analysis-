@@ -1,17 +1,17 @@
 # Flight Delay Analysis
 
 ##   Overview
-
+As a Capstone project for Microsoft Organized NG30DaysofLearning Training. It's required that I apply the Analytical skills I learnt during the course of the training, to tell a story about Flight Delay Experiences. 
 My Objective is to perform an Exploratory Data Analysis on a flight Experience Dataset, to find insights with delayed flights, lookout for patterns common to them and identity possible causes of flight delays. I made use of the Best Available Tools and Resources to Explore and present insights using Data Visualization.
 
 ##  Tools
 
 
-*  Excel
+*  Microsoft Excel - For Creating custom tables, since some of the External Datasets were neither in CSV nor JSON format, before importing the Data into Power BI. Though I can still do this on Power BI, but Microsoft Excel gives me more flexibility.
 
-*  Power BI
+*  Microsoft Power BI - The Primary tool I used for my Analysis and report building. It contains a vast library of tools for Visualization.
 
-*  Adobe illustrator
+*  Adobe illustrator - I used illustrator as a supporting tool for design. I Used Adobe illustrator in Designing icons and wireframes that I built my report with. 
 
 
 
