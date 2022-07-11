@@ -19,13 +19,13 @@ My Objective is to perform an Exploratory Data Analysis on a flight Experience D
 ##  Resources
 
 * Flight Data source : 
-<https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/blob/main/Airline%20Project/Airlines.csv>  See the [Flight Data image](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Dataset.png) here.
+<https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/blob/main/Airline%20Project/Airlines.csv>  ![Flight Data image](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Dataset.png)
 
 *  ####  Overlayed Data : 
 *  Airport Names: 
 <https://datahub.io/core/airport-codes> You can view the [Airport Names])  table here
 *  Airline Names : 
-<https://gist.github.com/AndreiCalazans/390e82a1c3edff852137cb3da813eceb>. see the [Airline Names Table](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Airline%20Table.png) image here
+<https://gist.github.com/AndreiCalazans/390e82a1c3edff852137cb3da813eceb>. ![Airline Names Table](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Airline%20Table.png)
 
 
 
