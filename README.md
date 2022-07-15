@@ -38,14 +38,24 @@ The Data used for my Analysis were from 3 Different sources (see **Resources**),
 ##  Project Flow
 
 ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Project%20flowArtboard%201.png)
-1. __Data Cleaning :__ The Flight Data is a cleaned up Dataset, hence required no further cleaning, except some necessary transformations. On the other hand, the overlayed Data needed some cleaning and transformation to remove unneeded columns from the Table. 
+1.__Data Cleaning :__ The Flight Data is a cleaned up Dataset, hence required no further cleaning, except some necessary transformations. On the other hand, the overlayed Data needed some cleaning and transformation to remove unneeded columns from the Table. 
  
+___
+ ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Flight%20Experience%20Context.jpg)
+2.__Defining the Context and Objectives:__ Before starting any Analysis, I like to gain clarity from the start. And I achieve this by defining the context of Who my audience is, What is required of me, Why It's important to them and How I can meet this requirements. 
+___
 
+3.__Data Overlay and and Reverse Geocoding :__
 
 ___
- ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Context%20Analysis.jpg)
-2. __Defining the Context and Objectives:__ Before starting any Analysis, I like to gain clarity from the start. And I achieve this by defining the context of Who my audience is, What is required of me, Why It's important to them and How I can meet this requirements. 
-  3. __Data Overlay and and Reverse Geocoding__:
+
+4.__Data Modeling__ :
+
+___
+5.__Way Finding/Thought Process__:
+
+___
+6.__Analysis & Visualization__.
 
 
 
