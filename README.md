@@ -45,7 +45,7 @@ ___
 2.__Defining the Context and Objectives:__ Before starting any Analysis, I like to gain clarity from the start. And I achieve this by defining the context of Who my audience is, What is required of me, Why It's important to them and How I can meet this requirements. This helps me to understand the problem and my Objectives.
 ___
 
-3.__Data Overlay and and Reverse Geocoding :__ Here's where I made a good use of external Dataset, using IATA codes for airports and airlines in the flight Data to get the names airlines, airports and it's location from an external Dataset.
+3.__Data Overlay and and Reverse Geocoding :__ Here's where I made a good use of external Dataset, using IATA codes for airports and airlines in the flight Data to get the names Airlines, Airports and it's location from an external Dataset.
 
 ___
 
