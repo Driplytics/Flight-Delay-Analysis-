@@ -1,7 +1,7 @@
 # Flight Delay Analysis
 ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/WAITING%20DELAY.jpg)
 ##   Overview
-As a Capstone project for Microsoft Organized NG30DaysofLearning Training. It's required that I apply the Analytical skills I learnt during the course of the training, to tell a story about Flight Delay Experiences.  
+As a Capstone project for a Microsoft Organized NG30DaysofLearning Training. It's required that I apply the Analytical skills I learnt during the course of the training, to tell a story about Flight Delay Experiences.  
 My Objective is to perform an Exploratory Data Analysis on a flight Experience Dataset, to find insights with delayed flights, lookout for patterns common to them and identity possible causes of flight delays. I made use of the Best Available Tools and Resources to Explore and present insights using Data Visualization  
 
 ##  Tools
@@ -11,7 +11,7 @@ My Objective is to perform an Exploratory Data Analysis on a flight Experience D
 
 *  Microsoft Power BI - The Primary tool I used for my Analysis and report building. It contains a vast library of tools for Visualization.
 
-*  Adobe illustrator - I used illustrator as a supporting tool for design. I Used Adobe illustrator in Designing icons and wireframes that I built my report with. 
+*  Adobe illustrator - I used Adobe illustrator as a supporting tool for design. I Used Adobe illustrator in Designing icons and wireframes that I built my report with. 
 
 
 
@@ -21,8 +21,8 @@ My Objective is to perform an Exploratory Data Analysis on a flight Experience D
 * Flight Data source : 
 <https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/blob/main/Airline%20Project/Airlines.csv>  ![Flight Data image](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Dataset.png)
 
-*  ####  Overlayed Data : 
-*  Airport Names: 
+###  Overlayed Data :   
+   *  Airport Names:  
 <https://datahub.io/core/airport-codes>  
 ![Airport Names](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Airport%20Name%20Data.png)  
 *  Airline Names : 
@@ -33,7 +33,7 @@ My Objective is to perform an Exploratory Data Analysis on a flight Experience D
 
 
 ##  Where is the Data? 
-The Data used for my Analysis were from 3 Different sources (see **Resources**), the main flight data has Airport and Airline codes as a means of identity, hence the need to source for external Data set that would  overlay these codes and provide the names of Airlines, Airport and their location, by creating a Data model  between the 3 tables. 
+The Data used for my Analysis were from 3 Different sources (see [Resources](https://github.com/Driplytics/Flight-Delay-Analysis-/edit/main/README.md#resources)), the main flight data has Airport and Airline codes as a means of identity, hence the need to source for external Datasets that would  overlay these codes and provide the names of Airlines, Airport and their location, by creating a Data model  between the 3 tables. 
 
 ##  Project flow
 ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Project%20flowArtboard%201.png)
@@ -41,25 +41,25 @@ The Data used for my Analysis were from 3 Different sources (see **Resources**),
  
 ___
 
-2.__Defining the Context and Objectives:__ Before starting any Analysis, I like to gain clarity from the start. And I achieve this by defining the context of Who my audience is, What is required of me, Why It's important to them and How I can meet this requirements. This helps me to understand the problem and my Objectives.  
+2.__Defining the Context and Objectives:__ Before starting any Analysis, I like to gain clarity from the start. And I achieve this by defining the context of Who my audience is, **What** is required of me, **Why** It's important to them and **How** I can meet this requirements. This helps me to understand the problem and my Objectives.  
     ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Flight%20Experience%20Context.jpg)
 ___
 
-3.__Data Overlay and and Reverse Geocoding :__ Here's where I made a good use of external Dataset, using IATA codes for airports and airlines in the flight Data to get the names Airlines, Airports and it's location from an external Dataset.
+3.__Data Overlay and and Reverse Geocoding :__ Here's where I made a good use of external Dataset, using IATA codes for airports and airlines in the flight Data to get the names of Airlines, Airports and it's location from an external Dataset.
 
 ___
 
-4.__Data Modeling__ :I built Data model using Data Resources I gathered; Flight Data, Airport data and Airline Data to build a seamless Data model.
+4.__Data Modeling__ :I built a Data model using the Data Resources I gathered; Flight Data, Airport data and Airline Data to build a seamless Data model.
 
 ___
-5.__Way Finding/Thought Process__: Before I start Analyzing my dataset, i love to spend time to think through, and go through a discovery session with the various entities I would work with, connect the dots while taking notes :memo: of possible relationships that could exists between different entities and write them down with pen and paper. This is the bedrock of my Analysis. Because here I look out for possible insights the connections could provide.  It's was at this stage that I got the idea about making a move to get an External Datasets, before going to Google about flight codes, which I didn't know existed. 
+5.__Way Finding/Thought Process__: Before I start Analyzing my dataset, i love to spend time to think through, and go through a discovery session with the various entities I would work with, connect the dots while taking notes :memo: of possible relationships that could exists between different entities and write them down with pen and paper. This is the bedrock of my Analysis. Because here I look out for possible insights the connections could provide.  It's was at this stage that I got the idea about making a move to get an External Datasets, before going to Google about Airline codes, which I never knew existed. 
 
 ___
 6.__Analysis & Visualization__: At this stage I already have a plan and things to look out for on my Analysis which was conceived during my discovery session. So I just explore the Dataset and note down patterns I find, then employ the right visual tools that fit the context to present my Findings.  
-## Remarks :
+## Remarks 
    *Some of the insights Generated are stated below*    
 >:bulb: **The Delays are proportional to number of flights.** 
-> Most Used Flights Experience the Most Delayed flights, this shows delay is likely due to congestions.
+   > Most Used Flights Experience the Most Delayed flights, this shows delay is likely due to congestions.  
 
  ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Airline%20Review.png)
 ```
@@ -67,7 +67,7 @@ ___
 ```
 
 >:bulb: **Busiest Airports recorded the highest number of flights, and also the higest number of Delays.**
->A crowded or exceptionally busy airport can have planes lined up on the runway waiting to take off. which causes Airport Congestion. Most times Congestions which are common with busy Airports.
+    A crowded or exceptionally busy airport can have planes lined up on the runway waiting to take off. which causes Airport Congestion. Most times Congestions which are common with busy Airports.  
   
  ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/airports%20review.png)  
  ```
