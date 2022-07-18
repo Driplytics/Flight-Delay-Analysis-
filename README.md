@@ -35,14 +35,14 @@ My Objective is to perform an Exploratory Data Analysis on a flight Experience D
 ##  Where is the Data? 
 The Data used for my Analysis were from 3 Different sources (see **Resources**), the main flight data has Airport and Airline codes as a means of identity, hence the need to source for external Data set that would  overlay these codes and provide the names of Airlines, Airport and their location, by creating a Data model  between the 3 tables. 
 
-##  Project Flow
-
+##  Project flow
 ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Project%20flowArtboard%201.png)
 1.__Data Cleaning :__ The Flight Data is a cleaned up Dataset, hence required no further cleaning, except some necessary transformations. On the other hand, the overlay Data needed some cleaning and transformation to remove unneeded columns from the Table. 
  
 ___
- ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Flight%20Experience%20Context.jpg)
-2.__Defining the Context and Objectives:__ Before starting any Analysis, I like to gain clarity from the start. And I achieve this by defining the context of Who my audience is, What is required of me, Why It's important to them and How I can meet this requirements. This helps me to understand the problem and my Objectives.
+
+2.__Defining the Context and Objectives:__ Before starting any Analysis, I like to gain clarity from the start. And I achieve this by defining the context of Who my audience is, What is required of me, Why It's important to them and How I can meet this requirements. This helps me to understand the problem and my Objectives.  
+    ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Flight%20Experience%20Context.jpg)
 ___
 
 3.__Data Overlay and and Reverse Geocoding :__ Here's where I made a good use of external Dataset, using IATA codes for airports and airlines in the flight Data to get the names Airlines, Airports and it's location from an external Dataset.
@@ -55,7 +55,9 @@ ___
 5.__Way Finding/Thought Process__: Before I start Analyzing my dataset, i love to spend time to think through, and go through a discovery session with the various entities I would work with, connect the dots while taking notes of possible relationships that could exists between different entities and write them down with pen and paper. This is the bedrock of my Analysis. Because here I look out for possible insights the connections could provide.  It's was at this stage that I got the idea about making a move to get an External Datasets, before going to Google about flight codes, which I didn't know existed. 
 
 ___
-6.__Analysis & Visualization__: At this stage I already have a plan and things to look out for on my Analysis which was conceived during my discovery session. So I just explore the Dataset and note down patterns I find, then employ the right visual tools that fit the context to present my Findings. 
+6.__Analysis & Visualization__: At this stage I already have a plan and things to look out for on my Analysis which was conceived during my discovery session. So I just explore the Dataset and note down patterns I find, then employ the right visual tools that fit the context to present my Findings.  
+   ## Review :
+   Some of the insights Generated are stated below
 
 
 
