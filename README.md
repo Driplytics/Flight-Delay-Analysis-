@@ -70,6 +70,7 @@ ___
  
  ```
  *  Number of flights are less on the weekends, and its clearly reflects on the number of delays recorded as the weeks comes to an end.
+ ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Weekends%20Review.png)
 
 
 
