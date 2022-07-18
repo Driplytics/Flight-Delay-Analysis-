@@ -52,17 +52,23 @@ ___
 4.__Data Modeling__ :I built Data model using Data Resources I gathered; Flight Data, Airport data and Airline Data to build a seamless Data model.
 
 ___
-5.__Way Finding/Thought Process__: Before I start Analyzing my dataset, i love to spend time to think through, and go through a discovery session with the various entities I would work with, connect the dots while taking notes of possible relationships that could exists between different entities and write them down with pen and paper. This is the bedrock of my Analysis. Because here I look out for possible insights the connections could provide.  It's was at this stage that I got the idea about making a move to get an External Datasets, before going to Google about flight codes, which I didn't know existed. 
+5.__Way Finding/Thought Process__: Before I start Analyzing my dataset, i love to spend time to think through, and go through a discovery session with the various entities I would work with, connect the dots while taking notes :memo: of possible relationships that could exists between different entities and write them down with pen and paper. This is the bedrock of my Analysis. Because here I look out for possible insights the connections could provide.  It's was at this stage that I got the idea about making a move to get an External Datasets, before going to Google about flight codes, which I didn't know existed. 
 
 ___
 6.__Analysis & Visualization__: At this stage I already have a plan and things to look out for on my Analysis which was conceived during my discovery session. So I just explore the Dataset and note down patterns I find, then employ the right visual tools that fit the context to present my Findings.  
    ## Review :
-   Some of the insights Generated are stated below
- *  The Delays are proportional to number of flights. 
+   💡 *Some of the insights Generated are stated below*  
+   >**The Delays are proportional to number of flights.** 
  ![image](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Airline%20Review.png)
- *  Busiest Airports recorded the highest number of flights, and also the higest number of Delays.
+```
+
+```
+
+   >**Busiest Airports recorded the highest number of flights, and also the higest number of Delays.**
+ ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/airports%20review.png)  
+ ```
  
- ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/airports%20review.png)
+ ```
  *  Number of flights are less on the weekends, and its clearly reflects on the number of delays recorded as the weeks comes to an end.
 
 
