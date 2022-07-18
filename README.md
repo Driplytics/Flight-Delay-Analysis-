@@ -58,6 +58,9 @@ ___
 6.__Analysis & Visualization__: At this stage I already have a plan and things to look out for on my Analysis which was conceived during my discovery session. So I just explore the Dataset and note down patterns I find, then employ the right visual tools that fit the context to present my Findings.  
    ## Review :
    Some of the insights Generated are stated below
+ *  The Delays are proportional to number of flights.
+ *  Busiest Airports recorded the highest number of flights, and also the higest number of Delays.
+ *  Number of flights are less on the weekends, and its clearly reflects on the number of delays recorded as the weeks comes to an end.
 
 
 
