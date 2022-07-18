@@ -56,22 +56,30 @@ ___
 
 ___
 6.__Analysis & Visualization__: At this stage I already have a plan and things to look out for on my Analysis which was conceived during my discovery session. So I just explore the Dataset and note down patterns I find, then employ the right visual tools that fit the context to present my Findings.  
-   ## Review :
+## Remarks :
    *Some of the insights Generated are stated below*    
-   >:bulb: **The Delays are proportional to number of flights.** 
- ![image](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Airline%20Review.png)
+>:bulb: **The Delays are proportional to number of flights.** 
+> Most Used Flights Experience the Most Delayed flights, this shows delay is likely due to congestions.
+
+ ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Airline%20Review.png)
 ```
 
 ```
 
-   >:bulb: **Busiest Airports recorded the highest number of flights, and also the higest number of Delays.**
+>:bulb: **Busiest Airports recorded the highest number of flights, and also the higest number of Delays.**
+>A crowded or exceptionally busy airport can have planes lined up on the runway waiting to take off. which causes Airport Congestion. Most times Congestions which are common with busy Airports.
+  
  ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/airports%20review.png)  
  ```
  
  ```
 > :bulb: **Number of flights are less on the weekends, and its clearly reflects on the number of delays recorded as the weeks comes to an end.**
- ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Weekends%20Review.png)
+> Flight delays tends to reduces as weekends approaches, when flight Activities are low.  
 
+ ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Weekends%20Review.png)
+ 
+ ## The Big Idea 
+ **From My Analysis, i have found that Air Traffic/Congestion is a major contribution to Flight Delays Recorded.**
 
 
 
