@@ -59,7 +59,7 @@ ___
 ## Remarks 
    *Some of the insights Generated are stated below*    
 >:bulb: **The Delays are proportional to number of flights.** 
-   > Most Used Flights Experience the Most Delayed flights, this shows delay is likely due to congestions.  
+   > Most Used Flights Experience the Most Delays, this shows delay is likely due to congestions.  
 
  ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Airline%20Review.png)
 ```
@@ -67,14 +67,14 @@ ___
 ```
 
 >:bulb: **Busiest Airports recorded the highest number of flights, and also the higest number of Delays.**
-    A crowded or exceptionally busy airport can have planes lined up on the runway waiting to take off. which causes Airport Congestion. Most times Congestions which are common with busy Airports.  
+    A crowded or exceptionally busy airport can have planes lined up on the runway waiting to take off. which causes Airport Congestion. Most times Congestions are common with busy Airports.  
   
  ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/airports%20review.png)  
  ```
  
  ```
 > :bulb: **Number of flights are less on the weekends, and its clearly reflects on the number of delays recorded as the weeks comes to an end.**
-> Flight delays tends to reduces as weekends approaches, when flight Activities are low.  
+> Flight delays tends to reduce as weekends approaches, when flight Activities are low.  
 
  ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Weekends%20Review.png)
  
