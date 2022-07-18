@@ -61,6 +61,8 @@ ___
  *  The Delays are proportional to number of flights. 
  ![image](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Airline%20Review.png)
  *  Busiest Airports recorded the highest number of flights, and also the higest number of Delays.
+ 
+ ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/airports%20review.png)
  *  Number of flights are less on the weekends, and its clearly reflects on the number of delays recorded as the weeks comes to an end.
 
 
