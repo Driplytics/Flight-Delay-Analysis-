@@ -79,7 +79,7 @@ ___
  ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Weekends%20Review.png)
  
  ## The Big Idea 
- **From My Analysis, i have found that Air Traffic/Congestion is a major contribution to Flight Delays Recorded.**
+ **From My Analysis, i found that Air Traffic/Congestion is common with delayed flights hence it's a major contributor to Flight Delays Recorded.**
 
 
 
