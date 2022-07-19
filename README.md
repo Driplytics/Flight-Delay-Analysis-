@@ -42,7 +42,7 @@ My Objective is to perform an Exploratory Data Analysis on a flight Experience D
 
 
 ##  Where is the Data? 
-The Data used for my Analysis were from 3 Different sources (see [Resources](https://github.com/Driplytics/Flight-Delay-Analysis-/edit/main/README.md#resources)), the main flight data has Airport and Airline codes as a means of identity, hence the need to source for external Datasets that would  overlay these codes and provide the names of Airlines, Airport and their location, by creating a Data model  between the 3 tables. 
+The Data used for my Analysis were from 3 Different sources (see [Resources](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/README.md#resources)), the main flight data has Airport and Airline codes as a means of identity, hence the need to source for external Datasets that would  overlay these codes and provide the names of Airlines, Airport and their location, by creating a Data model  between the 3 tables. 
 
 ##  Project flow
 ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Project%20flowArtboard%201.png)
