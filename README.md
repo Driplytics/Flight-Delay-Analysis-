@@ -91,6 +91,7 @@ ___
  **From My Analysis, i found that Air Traffic/Congestion is common with delayed flights hence it's a major contributor to the Flight Delays Recorded.**
 
  ##  See Full Report Page
+ ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/eull%20report.png)
 
 
 
