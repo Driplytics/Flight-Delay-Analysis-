@@ -8,6 +8,7 @@
    - [Project flow](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/README.md#project-flow)
    - [Remarks](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/README.md#remarks)
    - [The Big Idea](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/README.md#the-big-idea)
+   - [See full Report Page](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/README.md#see-full-report-page)
 
 ##   Overview
 As a Capstone project for a Microsoft Organized NG30DaysofLearning Training. It's required that I apply the Analytical skills I learnt during the course of the training, to tell a story about Flight Delay Experiences.  
