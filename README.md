@@ -37,7 +37,7 @@ The Data used for my Analysis were from 3 Different sources (see [Resources](htt
 
 ##  Project flow
 ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Project%20flowArtboard%201.png)
-1.__Data Cleaning :__ The Flight Data is a cleaned up Dataset, hence required no further cleaning, except some optional transformations. On the other hand, the overlay Data needed some cleaning and transformation to remove unneeded columns from the Table. 
+1.__Data Cleaning :__ The Flight Dataset is a cleaned up Dataset, hence required no further cleaning, except some optional transformations. On the other hand, the overlay Data needed some cleaning and transformation to remove unneeded columns from the Table. 
  
 ___
 
@@ -58,23 +58,23 @@ ___
 6.__Analysis & Visualization__: At this stage I already have a plan and things to look out for on my Analysis which was conceived during my discovery session. So I just explore the Dataset and note down patterns I find, then employ the right visual tools that fit the context to present my Findings.  
 ## Remarks 
    *Some of the insights Generated are stated below*    
->:bulb: **The Delays are proportional to number of flights.** 
-   > Most Used Flights Experience the Most Delays, this shows delay is likely due to congestions.  
+>:bulb: **The Delays are proportional to number of flights:** 
+   Most Used Flights Experience the Most Delays, this shows delay is likely due to congestions.    
 
  ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Airline%20Review.png)
 ```
 
 ```
 
->:bulb: **Busiest Airports recorded the highest number of flights, and also the higest number of Delays.**
+>:bulb: **Busiest Airports recorded the highest number of flights, and also the higest number of Delays:**
     A crowded or exceptionally busy airport can have planes lined up on the runway waiting to take off. which causes Airport Congestion. Most times Congestions are common with busy Airports.  
   
  ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/airports%20review.png)  
  ```
  
  ```
-> :bulb: **Number of flights are less on the weekends, and its clearly reflects on the number of delays recorded as the weeks comes to an end.**
-> Flight delays tends to reduce as weekends approaches, when flight Activities are low.  
+> :bulb: **Number of flights are less on the weekends, and it clearly reflects on the number of delays recorded as the weeks comes to an end:**
+> Flight delays tends to reduce as weekends approaches, when flight Activities are getting low.  
 
  ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Weekends%20Review.png)
  
