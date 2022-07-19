@@ -1,5 +1,14 @@
 # Flight Delay Analysis
-![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/WAITING%20DELAY.jpg)
+![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Delayed.png)
+   ## Table of Contenets  
+   - [Overview](https://github.com/Driplytics/Flight-Delay-Analysis-/edit/main/README.md#overview)  
+   - [Tools](https://github.com/Driplytics/Flight-Delay-Analysis-/edit/main/README.md#tools)  
+   - [Resources](https://github.com/Driplytics/Flight-Delay-Analysis-/edit/main/README.md#resources)
+   - [Where is the Data ?](https://github.com/Driplytics/Flight-Delay-Analysis-/edit/main/README.md#where-is-the-data)
+   - [Project flow](https://github.com/Driplytics/Flight-Delay-Analysis-/edit/main/README.md#project-flow)
+   - [Remarks](https://github.com/Driplytics/Flight-Delay-Analysis-/edit/main/README.md#remarks)
+   - [The Big Idea](https://github.com/Driplytics/Flight-Delay-Analysis-/edit/main/README.md#the-big-idea)
+
 ##   Overview
 As a Capstone project for a Microsoft Organized NG30DaysofLearning Training. It's required that I apply the Analytical skills I learnt during the course of the training, to tell a story about Flight Delay Experiences.  
 My Objective is to perform an Exploratory Data Analysis on a flight Experience Dataset, to find insights with delayed flights, lookout for patterns common to them and identity possible causes of flight delays. I made use of the Best Available Tools and Resources to Explore and present insights using Data Visualization  
@@ -58,28 +67,28 @@ ___
 6.__Analysis & Visualization__: At this stage I already have a plan and things to look out for on my Analysis which was conceived during my discovery session. So I just explore the Dataset and note down patterns I find, then employ the right visual tools that fit the context to present my Findings.  
 ## Remarks 
    *Some of the insights Generated are stated below*    
->:bulb: **The Delays are proportional to number of flights:** 
-   Most Used Flights Experience the Most Delays, this shows delay is likely due to congestions.    
+>:bulb: **The Delays are proportional to number of flights:**   
+   Most Used Flights Experience the Most Delays. They have the greatest number of passengers, they are likely to be overwhelmed sometimes(rush hour) and this could cause Overscheduling of flights or delay from the crew, which eventually results to flight delays. This shows delay is likely due to congestions.    
 
  ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Airline%20Review.png)
 ```
 
 ```
 
->:bulb: **Busiest Airports recorded the highest number of flights, and also the higest number of Delays:**
+>:bulb: **Busiest Airports recorded the highest number of flights, and also the higest number of Delays:**  
     A crowded or exceptionally busy airport can have planes lined up on the runway waiting to take off. which causes Airport Congestion. Most times Congestions are common with busy Airports.  
   
  ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/airports%20review.png)  
  ```
  
  ```
-> :bulb: **Number of flights are less on the weekends, and it clearly reflects on the number of delays recorded as the weeks comes to an end:**
+> :bulb: **Number of flights are less on the weekends, and it clearly reflects on the number of delays recorded as the weeks comes to an end:**  
 > Flight delays tends to reduce as weekends approaches, when flight Activities are getting low.  
 
  ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Weekends%20Review.png)
  
  ## The Big Idea 
- **From My Analysis, i found that Air Traffic/Congestion is common with delayed flights hence it's a major contributor to Flight Delays Recorded.**
+ **From My Analysis, i found that Air Traffic/Congestion is common with delayed flights hence it's a major contributor to the Flight Delays Recorded.**
 
 
 
