@@ -37,7 +37,7 @@ The Data used for my Analysis were from 3 Different sources (see [Resources](htt
 
 ##  Project flow
 ![](https://github.com/Driplytics/Flight-Delay-Analysis-/blob/main/Project%20flowArtboard%201.png)
-1.__Data Cleaning :__ The Flight Data is a cleaned up Dataset, hence required no further cleaning, except some necessary transformations. On the other hand, the overlay Data needed some cleaning and transformation to remove unneeded columns from the Table. 
+1.__Data Cleaning :__ The Flight Data is a cleaned up Dataset, hence required no further cleaning, except some optional transformations. On the other hand, the overlay Data needed some cleaning and transformation to remove unneeded columns from the Table. 
  
 ___
 
