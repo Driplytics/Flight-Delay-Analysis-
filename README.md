@@ -90,8 +90,7 @@ ___
  ## The Big Idea 
  **From My Analysis, i found that Air Traffic/Congestion is common with delayed flights hence it's a major contributor to the Flight Delays Recorded.**
 
- <center> Thank you :👋: </center>
-
+ ##  See Full Report Page
 
 
 
