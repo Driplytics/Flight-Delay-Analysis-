@@ -22,7 +22,7 @@ My Objective is to perform an Exploratory Data Analysis on a flight Experience D
 *  Microsoft Power BI - The Primary tool I used for my Analysis and report building. It contains a vast library of tools for Visualization.
 
 *  Adobe illustrator - I used Adobe illustrator as a supporting tool for design. I Used Adobe illustrator in Designing icons and wireframes that I built my report with. 
-
+*  Miro - Miro is an online tool for Storyboarding and Ideation. Here where used Sticky notes to connect my ideas and gain clearity. i like to build my storyboards with this tool.
 
 
 
